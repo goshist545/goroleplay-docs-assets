@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Birds, l'oiseau rouge de GoRolePlay">
+  <g stroke="#6e1720" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M30 80 C14 80 6 66 10 54 C18 62 26 64 36 62 Z" fill="#c42f3b"/>
+    <path d="M20 70 C12 66 10 58 12 52" fill="none" stroke-width="2.5"/>
+    <path d="M56 30 C50 18 56 6 66 4 C63 13 66 19 72 23 C74 13 83 8 92 11 C85 15 83 21 84 29 Z" fill="#e8434f"/>
+    <ellipse cx="66" cy="70" rx="44" ry="41" fill="#ef4b57"/>
+    <path d="M48 88 C52 104 66 110 80 108 C96 106 106 94 104 80 C96 90 84 94 72 94 C62 94 54 92 48 88 Z" fill="#ffc0b3" stroke="none"/>
+    <path d="M30 70 C30 54 46 48 57 56 C64 62 63 79 53 88 C42 96 30 86 30 70 Z" fill="#c42f3b"/>
+    <path d="M38 74 C42 78 47 79 52 77" fill="none" stroke-width="2.5"/>
+    <ellipse cx="64" cy="57" rx="11" ry="13" fill="#fff"/>
+    <ellipse cx="89" cy="57" rx="11" ry="13" fill="#fff"/>
+    <path d="M60 113 v9 M55 122 h10 M80 113 v9 M75 122 h10" stroke="#e08a12" stroke-width="4"/>
+    <path d="M70 69 L92 69 L81 84 Z" fill="#ffb02e" stroke="#c4700c"/>
+  </g>
+  <path d="M71 70 L91 70" stroke="#c4700c" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="67" cy="59" r="6" fill="#2a1414"/>
+  <circle cx="86" cy="59" r="6" fill="#2a1414"/>
+  <circle cx="69" cy="56" r="2.3" fill="#fff"/>
+  <circle cx="88" cy="56" r="2.3" fill="#fff"/>
+  <path d="M56 39 Q63 33 71 38 M82 38 Q90 33 97 39" fill="none" stroke="#6e1720" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="51" cy="76" rx="5.5" ry="3.2" fill="#ff8a95" opacity=".85"/>
+  <ellipse cx="102" cy="74" rx="5.5" ry="3.2" fill="#ff8a95" opacity=".85"/>
+  <path d="M88 33 C94 32 99 35 102 40" fill="none" stroke="#ff8f98" stroke-width="3" stroke-linecap="round"/>
+</svg>
